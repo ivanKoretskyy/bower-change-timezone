@@ -1,0 +1,21 @@
+{
+  "name": "bower-change-timezone-no-change-time",
+  "authors": [
+    "ivankoretskyy@gmail.com"
+  ],
+  "description": "changing timezone",
+  "main": "index.js",
+  "keywords": [
+    "timezone"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
